@@ -27,6 +27,7 @@ export const Person =(props:props)=>{
             return(<h4>{friend}</h4>)
         })}</h4>
         <h4>Country:{props.country}</h4>
+        <button>click me!</button>
     </div>
    )
 }
