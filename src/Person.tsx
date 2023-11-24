@@ -28,6 +28,7 @@ export const Person =(props:props)=>{
         })}</h4>
         <h4>Country:{props.country}</h4>
         <button>click me!</button>
+        <button>click me again!</button>
     </div>
    )
 }
